@@ -1,0 +1,5 @@
+<project name="Print the details" default="start">
+   <target name="start">
+      <echo>Ant is a build tool which automates software build process</echo>
+   </target>
+</project>
